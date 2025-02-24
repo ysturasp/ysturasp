@@ -11,7 +11,7 @@
 <div align="center">
   <h3>🚀 Универсальный помощник для учебы в ЯГТУ</h3>
   
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fysturasp&label=Посетители&labelColor=%23697689&countColor=%232ccce4)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fysturasp&label=Просмотров&labelColor=%23697689&countColor=%232ccce4)
 </div>
 
 ## 🎯 Основные возможности
