@@ -73,6 +73,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Electron.js](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)
   
   <p>🔒 Код проекта в данный момент закрыт, но мы планируем открыть его, как только будем готовы!</p>
   <p>📦 Исходный код проекта с <b>анимированными Telegram эмодзи</b> открыт и доступен по ссылке: <a href="https://github.com/ysturasp/tg_emoji">tg_emoji</a></p>
