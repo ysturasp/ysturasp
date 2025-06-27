@@ -75,7 +75,7 @@
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Electron.js](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)
   
-  <p>🔒 Код проекта в данный момент закрыт, но мы планируем открыть его, как только будем готовы!</p>
+  <p>📂 Исходный код доступен на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a>. Проект активно развивается - следите за обновлениями!</p>
   <p>📦 Исходный код проекта с <b>анимированными Telegram эмодзи</b> открыт и доступен по ссылке: <a href="https://github.com/ysturasp/tg_emoji">tg_emoji</a></p>
 </div>
 
