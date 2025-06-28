@@ -94,5 +94,18 @@
 </div>
 
 <div align="center">
+  <p>Если вам нравится проект, не забудьте ⭐ поставить звезду на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a> — это мотивирует нас развивать его дальше!</p>
+  
+  <a href="https://github.com/ysturasp/ysturaspp">
+    <img src="https://img.shields.io/github/stars/ysturasp/ysturaspp?style=social" alt="GitHub Stars">
+  </a>
+  <br>
+  
+  <img src="https://api.star-history.com/svg?repos=ysturasp/ysturaspp&type=Date" alt="Support Project">
+  
+  <br>
+</div>
+
+<div align="center">
   <sub>Made with ❤️ by ystuRASP © 2024</sub>
 </div>
