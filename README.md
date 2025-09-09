@@ -59,7 +59,7 @@
 
 <div align="center">
   
-  <img src="https://d3frb2mbny706b.cloudfront.net/ysturasp" width="300">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ysturasp&theme=tokyonight&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysturasp&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
