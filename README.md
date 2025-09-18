@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://ysturasp.netlify.app/images/cat.png" alt="ystuRASP Logo" width="120" height="120" style="border-radius: 20%">
   
-  # Привет, мы [ystuRASP](https://ysturasp.netlify.app) 👋
+  # привет, мы [ysturasp](https://ysturasp.netlify.app) 👋
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ysturasp)
   [![Boosty](https://img.shields.io/badge/Boosty-F15B2A?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/ysturasp.me)
@@ -9,12 +9,12 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Универсальный помощник для учебы в ЯГТУ</h3>
+  <h3>🚀 универсальный помощник для учебы в ЯГТУ</h3>
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fysturasp&label=Просмотров&labelColor=%23697689&countColor=%232ccce4)
 </div>
 
-## 🎯 Основные возможности
+## 🎯 основные возможности
 
 <div align="center">
   <table>
@@ -22,25 +22,25 @@
       <td align="center">
         <a href="https://ysturasp.netlify.app/rasp">
           <img src="https://ysturasp.github.io/tg_emoji/People/Man%20Technologist.webp" width="100" alt="Students"><br>
-          <b>Расписание студентов</b>
+          <b>расписание студентов</b>
         </a>
       </td>
       <td align="center">
         <a href="https://ysturasp.netlify.app/raspprep">
           <img src="https://ysturasp.github.io/tg_emoji/People/Man%20Teacher.webp" width="100" alt="Teachers"><br>
-          <b>Расписание преподавателей</b>
+          <b>расписание преподавателей</b>
         </a>
       </td>
       <td align="center">
         <a href="https://ysturasp.netlify.app/raspaudience">
           <img src="https://ysturasp.github.io/tg_emoji/Travel%20and%20Places/Classical%20Building.webp" width="100" alt="Audiences"><br>
-          <b>Расписание аудиторий</b>
+          <b>расписание аудиторий</b>
         </a>
       </td>
       <td align="center">
         <a href="https://ysturasp.netlify.app/stat">
           <img src="https://ysturasp.github.io/tg_emoji/Objects/Bar%20Chart.webp" width="100" alt="Statistics"><br>
-          <b>Статистика оценок</b>
+          <b>статистика оценок</b>
         </a>
       </td>
     </tr>
@@ -49,13 +49,13 @@
 
 <div align="center">
   
-  ### 📱 Установите приложение
-  Получите быстрый доступ к расписанию прямо с вашего домашнего экрана
+  ### 📱 установите приложение
+  получите быстрый доступ к расписанию прямо с вашего домашнего экрана
   
   [![Install App](https://img.shields.io/badge/Установить_приложение-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ysturasp.netlify.app/installapp)
 </div>
 
-## 📊 Статистика GitHub
+## 📊 статистика GitHub
 
 <div align="center">
   
@@ -64,7 +64,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysturasp&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-## 💻 Технологии
+## 💻 технологии
 
 <div align="center">
   
@@ -75,11 +75,11 @@
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   ![Electron.js](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)
   
-  <p>📂 Исходный код доступен на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a>. Проект активно развивается - следите за обновлениями!</p>
-  <p>📦 Исходный код проекта с <b>анимированными Telegram эмодзи</b> открыт и доступен по ссылке: <a href="https://github.com/ysturasp/tg_emoji">tg_emoji</a></p>
+  <p>📂 исходный код доступен на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a>. Проект активно развивается - следите за обновлениями!</p>
+  <p>📦 исходный код проекта с <b>анимированными Telegram эмодзи</b> открыт и доступен по ссылке: <a href="https://github.com/ysturasp/tg_emoji">tg_emoji</a></p>
 </div>
 
-## 🌟 Поддержите проект
+## 🌟 поддержите проект
 
 <div align="center">
   <a href="https://boosty.to/ysturasp.me/donate">
@@ -90,11 +90,11 @@
 ---
 
 <div align="center">
-  <h3>✨ Спасибо за ваш интерес к ystuRASP! ✨</h3>
+  <h3>✨ спасибо за ваш интерес к ystuRASP! ✨</h3>
 </div>
 
 <div align="center">
-  <p>Если вам нравится проект, не забудьте ⭐ поставить звезду на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a> — это мотивирует нас развивать его дальше!</p>
+  <p>если вам нравится проект, не забудьте ⭐ поставить звезду на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a> — это мотивирует нас развивать его дальше!</p>
   
   <a href="https://github.com/ysturasp/ysturaspp">
     <img src="https://img.shields.io/github/stars/ysturasp/ysturaspp?style=social" alt="GitHub Stars">
@@ -107,5 +107,5 @@
 </div>
 
 <div align="center">
-  <sub>Made with ❤️ by ystuRASP © 2024</sub>
+  <sub>made with ❤️ by ysturasp © 2024</sub>
 </div>
