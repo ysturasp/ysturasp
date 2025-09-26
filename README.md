@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://ysturasp.netlify.app/images/cat.png" alt="ystuRASP Logo" width="120" height="120" style="border-radius: 20%">
   
-  # привет, мы [ysturasp](https://ysturasp.netlify.app) 👋
+  # привет, это [ysturasp](https://ysturasp.netlify.app) 👋
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ysturasp)
   [![Boosty](https://img.shields.io/badge/Boosty-F15B2A?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/ysturasp.me)
