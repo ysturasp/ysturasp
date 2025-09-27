@@ -96,12 +96,12 @@
 <div align="center">
   <p>если вам нравится проект, не забудьте ⭐ поставить звезду на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a> — это мотивирует нас развивать его дальше!</p>
   
-  <a href="https://github.com/ysturasp/ysturaspp">
-    <img src="https://img.shields.io/github/stars/ysturasp/ysturaspp?style=social" alt="GitHub Stars">
+  <a href="https://github.com/ysturasp/ysturasp-svelte">
+    <img src="https://img.shields.io/github/stars/ysturasp/ysturasp-svelte?style=social" alt="GitHub Stars">
   </a>
   <br>
   
-  <img src="https://api.star-history.com/svg?repos=ysturasp/ysturaspp&type=Date" alt="Support Project">
+  <img src="https://api.star-history.com/svg?repos=ysturasp/ysturasp-svelte&type=Date" alt="Support Project">
   
   <br>
 </div>
