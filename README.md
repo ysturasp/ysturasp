@@ -76,7 +76,6 @@
   ![Electron.js](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)
   
   <p>📂 исходный код доступен на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a>. Проект активно развивается - следите за обновлениями!</p>
-  <p>📦 исходный код проекта с <b>анимированными Telegram эмодзи</b> открыт и доступен по ссылке: <a href="https://github.com/ysturasp/tg_emoji">tg_emoji</a></p>
 </div>
 
 ## 🌟 поддержите проект
