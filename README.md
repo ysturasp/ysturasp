@@ -81,8 +81,8 @@
 ## 🌟 поддержите проект
 
 <div align="center">
-  <a href="https://boosty.to/ysturasp.me/donate">
-    <img src="https://img.shields.io/badge/Поддержать_проект-F15B2A?style=for-the-badge&logo=boosty&logoColor=white" alt="Support Project">
+  <a href="https://pay.cloudtips.ru/p/582d48d6">
+    <img src="https://img.shields.io/badge/Поддержать_проект-F15B2A?style=for-the-badge" alt="support project">
   </a>
 </div>
 
