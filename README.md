@@ -14,7 +14,7 @@
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fysturasp&label=Просмотров&labelColor=%23697689&countColor=%232ccce4)
 </div>
 
-## 🎯 основные возможности
+## 🎯 возможности
 
 <div align="center">
   <table>
