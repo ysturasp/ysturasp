@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://ysturasp.netlify.app/images/cat.png" alt="ystuRASP Logo" width="120" height="120" style="border-radius: 20%">
+  <img src="https://ysturasp.ru/images/cat.png" alt="ystuRASP Logo" width="120" height="120" style="border-radius: 20%">
   
-  # привет, это [ysturasp](https://ysturasp.netlify.app) 👋
+  # привет, это [ysturasp](https://ysturasp.ru) 👋
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ysturasp)
   [![Boosty](https://img.shields.io/badge/Boosty-F15B2A?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/ysturasp.me)
@@ -20,25 +20,25 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://ysturasp.netlify.app/rasp">
+        <a href="https://ysturasp.ru/rasp">
           <img src="https://ysturasp.github.io/tg_emoji/People/Man%20Technologist.webp" width="100" alt="Students"><br>
           <b>расписание студентов</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://ysturasp.netlify.app/raspprep">
+        <a href="https://ysturasp.ru/raspprep">
           <img src="https://ysturasp.github.io/tg_emoji/People/Man%20Teacher.webp" width="100" alt="Teachers"><br>
           <b>расписание преподавателей</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://ysturasp.netlify.app/raspaudience">
+        <a href="https://ysturasp.ru/raspaudience">
           <img src="https://ysturasp.github.io/tg_emoji/Travel%20and%20Places/Classical%20Building.webp" width="100" alt="Audiences"><br>
           <b>расписание аудиторий</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://ysturasp.netlify.app/stat">
+        <a href="https://ysturasp.ru/stat">
           <img src="https://ysturasp.github.io/tg_emoji/Objects/Bar%20Chart.webp" width="100" alt="Statistics"><br>
           <b>статистика оценок</b>
         </a>
@@ -52,7 +52,7 @@
   ### 📱 установите приложение
   получите быстрый доступ к расписанию прямо с вашего домашнего экрана
   
-  [![Install App](https://img.shields.io/badge/Установить_приложение-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ysturasp.netlify.app/installapp)
+  [![Install App](https://img.shields.io/badge/Установить_приложение-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ysturasp.ru/installapp)
 </div>
 
 ## 📊 статистика GitHub
