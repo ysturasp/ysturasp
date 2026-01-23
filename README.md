@@ -87,7 +87,7 @@
 ---
 
 <div align="center">
-  <h3>✨ спасибо за ваш интерес к ystuRASP! ✨</h3>
+  <h3>✨ спасибо за ваш интерес к ysturasp! ✨</h3>
 </div>
 
 <div align="center">
