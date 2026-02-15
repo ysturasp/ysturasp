@@ -94,7 +94,7 @@
   <p>если вам нравится проект, не забудьте ⭐ поставить звезду на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">github</a> — это мотивирует нас развивать его дальше!</p>
   
   <a href="https://github.com/ysturasp/ysturasp-svelte">
-    <img src="https://img.shields.io/github/stars/ysturasp/ysturasp-svelte?style=social" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/ysturasp/ysturasp-svelte?style=social" alt="github stars">
   </a>
   <br>
   
