@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 универсальный помощник для учебы в ЯГТУ</h3>
+  <h3>🚀 универсальный помощник для учебы в ягту</h3>
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fysturasp&label=Просмотров&labelColor=%23697689&countColor=%232ccce4)
 </div>
