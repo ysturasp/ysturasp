@@ -4,7 +4,6 @@
   # привет, это [ysturasp](https://ysturasp.ru) 👋
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ysturasp)
-  [![Boosty](https://img.shields.io/badge/Boosty-F15B2A?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/ysturasp.me)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ysturasp)
 </div>
 
