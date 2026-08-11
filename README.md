@@ -72,7 +72,7 @@
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   
-  <p>📂 исходный код доступен на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a></p>
+  <!-- <p>📂 исходный код доступен на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a></p> -->
 </div>
 
 ## 🌟 поддержите проект
