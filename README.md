@@ -97,7 +97,7 @@
   </a>
   <br>
   
-  <img src="https://api.star-history.com/svg?repos=ysturasp/ysturasp-svelte&type=Date" alt="Support Project">
+  <!-- <img src="https://api.star-history.com/svg?repos=ysturasp/ysturasp-svelte&type=Date" alt="Support Project"> -->
   
   <br>
 </div>
