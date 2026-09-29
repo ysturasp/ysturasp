@@ -75,14 +75,6 @@
   <!-- <p>📂 исходный код доступен на <a href="https://github.com/ysturasp/ysturaspp" target="_blank">GitHub</a></p> -->
 </div>
 
-## 🌟 поддержите проект
-
-<div align="center">
-  <a href="https://pay.cloudtips.ru/p/582d48d6">
-    <img src="https://img.shields.io/badge/Поддержать_проект-F15B2A?style=for-the-badge" alt="support project">
-  </a>
-</div>
-
 ---
 
 <div align="center">
