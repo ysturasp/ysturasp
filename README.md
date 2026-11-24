@@ -19,25 +19,25 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://ysturasp.ru/rasp">
+        <a href="https://ysturasp.ru/schedule">
           <img src="https://ysturasp.github.io/tg_emoji/People/Man%20Technologist.webp" width="100" alt="Students"><br>
           <b>расписание студентов</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://ysturasp.ru/raspprep">
+        <a href="https://ysturasp.ru/schedule">
           <img src="https://ysturasp.github.io/tg_emoji/People/Man%20Teacher.webp" width="100" alt="Teachers"><br>
           <b>расписание преподавателей</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://ysturasp.ru/raspaudience">
+        <a href="https://ysturasp.ru/schedule">
           <img src="https://ysturasp.github.io/tg_emoji/Travel%20and%20Places/Classical%20Building.webp" width="100" alt="Audiences"><br>
           <b>расписание аудиторий</b>
         </a>
       </td>
       <td align="center">
-        <a href="https://ysturasp.ru/stat">
+        <a href="https://ysturasp.ru/grades">
           <img src="https://ysturasp.github.io/tg_emoji/Objects/Bar%20Chart.webp" width="100" alt="Statistics"><br>
           <b>статистика оценок</b>
         </a>
